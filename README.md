@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm newton warui</h1>
 <h3 align="center">I possess expertise in creating and managing dynamic web applications using the latest technologies to deliver efficient and user-friendly solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newton-w&label=Profile%20views&color=0e75b6&style=flat" alt="newton-w" /> </p>
-
 - 🌱 I’m currently learning **NodeJs,Express and GraphQl**
 
 - 💬 Ask me about **html,css and react**
