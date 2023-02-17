@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **newtonwarui007@gmail.com**
 
-- Besides coding **I like playing games, swimming, watching football and movies**
+- Besides coding **I like playing video games, swimming, watching football and watching movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
