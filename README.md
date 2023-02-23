@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm newton warui</h1>
 <h3 align="center">I possess expertise in creating and managing dynamic web applications using the latest technologies to deliver efficient and user-friendly solutions.</h3>
-
+<img align="right" alt="coding" width ="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 🌱 I’m currently learning **NodeJs,Express and GraphQl**
 
 - 💬 Ask me about **html,css and react**
