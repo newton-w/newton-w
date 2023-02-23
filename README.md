@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm newton warui</h1>
 <h3 align="center">I possess expertise in creating and managing dynamic web applications using the latest technologies to deliver efficient and user-friendly solutions.</h3>
-<img align="right" alt="coding" width ="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+<br />
+<br />
+<br />
+<br />
+
+<img align="right" alt="coding" width ="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 - 🌱 I’m currently learning **NodeJs,Express and GraphQl**
 
 - 💬 Ask me about **html,css and react**
@@ -8,7 +14,10 @@
 - 📫 How to reach me **newtonwarui007@gmail.com**
 
 - Besides coding **I like playing video games, swimming, watching football and watching movies**
-
+<br />
+<br />
+<br />
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/newton-warui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="newton-warui" height="30" width="40" /></a>
