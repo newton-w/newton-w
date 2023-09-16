@@ -7,11 +7,11 @@
 <br />
 
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
-- 🌱 I’m currently learning **NodeJs,Express and GraphQl**
+- 🌱 I’m currently learning **Everything...**
 
 - 💬 Ask me about **anything...**
 
-- 📫 How to reach me **info@newtonwarui.com**
+- 📫 How to reach me **newtonwarui80@gmail.com**
 
 - Besides coding **I like playing video games, swimming, watching football and watching movies**
 <br />
