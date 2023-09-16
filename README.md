@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything...**
 
-- 📫 How to reach me **newtonwarui80@gmail.com**
+- 📫 How to reach me **info@newtonwarui.com**
 
 - Besides coding **I like playing video games, swimming, watching football and watching movies**
 <br />
