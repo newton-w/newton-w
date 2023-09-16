@@ -7,7 +7,7 @@
 <br />
 
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
-- 🌱 I’m currently learning **Everything...**
+- 🌱 I’m currently learning **everything**
 
 - 💬 Ask me about **anything...**
 
